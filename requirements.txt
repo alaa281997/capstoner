@@ -84,7 +84,7 @@ stdlib-list==0.8.0
 threadpoolctl==2.1.0
 toml==0.10.1
 urllib3==1.25.8
-virtualenv==20.0.35
+virtualenv==20.0.20
 Werkzeug==1.0.1
 wrapt==1.12.1
 WTForms==2.3.3
