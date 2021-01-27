@@ -104,7 +104,6 @@ General:
 }
 PATCH /actors/<int:id>
 General:
-
 {
   "actor": {
     "age": 22,
